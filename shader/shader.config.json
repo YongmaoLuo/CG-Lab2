@@ -1,0 +1,20 @@
+{
+    "normal": {
+        "name": "Normal",
+        "duck": {
+            "path": "normal"
+        }
+    },
+    "cartoon": {
+        "name": "Cartoon",
+        "duck": {
+            "path": "cartoon"
+        }
+    },
+    "cartoon-silhouette": {
+        "name": "Cartoon with Silhouette",
+        "duck": {
+            "path": "cartoon-silhouette"
+        }
+    }
+}
